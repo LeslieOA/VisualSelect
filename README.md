@@ -1,6 +1,9 @@
 VisualSelect
 ============
 
-A visual select box created for Multplx Attract platform and used in Waves. 
+A visual select box originally created (in my spare time) for the then Multplx Attract platform, 
+and eventually used in Sandpit Labs (Measuring) Waves. 
 Currently requires Require. 
-Brief documentation soon (it's a function for christs sake!).
+
+Only keeping this anemic repo around to (pettily and) mildly annoy a "not so good guy" developer.
+...but people change. :-)
